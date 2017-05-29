@@ -1,4 +1,4 @@
-# Team charter
+# Project definition
 
 ## Vision
 Meauring mechanical properties of objects or live tissues.
@@ -11,4 +11,7 @@ Develpping methods and techniques for measuring 3D deformation of objects/lie ti
 - Publications
 - Research grants
 
-
+# Team agreement
+- Behaviour agreement
+- Communication agreement
+- Project team
