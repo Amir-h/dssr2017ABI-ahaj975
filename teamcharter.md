@@ -1,1 +1,3 @@
 # Team charter
+
+## Vision
